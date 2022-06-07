@@ -1,0 +1,27 @@
+﻿UMAP, full dataset: 159.42 s
+
+HUMAP first level hierarchy, small dataset (30 000 samples): 55.9 s
+HUMAP second level hierarchy, small dataset (30 000 samples): 28.04 s
+
+TriMap euclidean distance, full dataset: 167.08 s
+TriMap manhattan distance, full dataset: 156.91 s
+TriMap cosine distance, full dataset: 158.34 s
+
+PacMap, full dataset: 95.08 s
+
+Isomap manhattan distance, tiny dataset (10 000 samples): 210.57 s
+Isomap euclidean distance, tiny dataset (10 000 samples): 143.67 s
+Isomap cosine distance, tiny dataset (10 000) samples: 88.21 s
+
+IVHD euclidean distance, full dataset, 3 neighbors, 2500 iterations:5m 19s
+IVHD euclidean distance, full dataset, 3 neighbors, 500 iterations: 1m 24s
+IVHD euclidean distance, full dataset, 2 neighbors, 2500 iterations, 5m 2s
+IVHD euclidean distance, full dataset, 2 neighbors, 200 iterations: 41s
+IVHD cosine distance, full dataset, 3 neighbors, 2500 iterations: 6m 27s
+IVHD cosine distance, full dataset, 3 neighbors, 500 iterations: 1m 53s
+IVHD cosine distance, full dataset, 2 neighbors, 2500 iterations: 7m 3s
+IVHD cosine distance, full dataset, 2 neighbors, 200 iterations: 55s
+
+
+
+
