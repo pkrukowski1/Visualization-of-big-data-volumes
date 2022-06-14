@@ -1,0 +1,13 @@
+UMAP, full dataset: 145.98 s
+
+HUMAP, tiny dataset (10 000 observations): 523.7 s
+
+TriMAP, full dataset, euclidean distance: 88.36 s
+TriMAP, full dataset, manhattan distance: 52.13 s
+TriMAP, full dataset, cosine distance: 55.85 s
+
+PaCMAP, full dataset, 42.12 s
+
+ISOMAP, tiny dataset: 958.35 s
+ISOMAP, tiny dataset: 194.22 s
+ISOMAP, tiny dataset: 118.55 s
