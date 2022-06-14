@@ -21,6 +21,7 @@ IVHD cosine distance, full dataset, 3 neighbors, 2500 iterations: 6m 27s
 IVHD cosine distance, full dataset, 3 neighbors, 500 iterations: 1m 53s
 IVHD cosine distance, full dataset, 2 neighbors, 2500 iterations: 7m 3s
 IVHD cosine distance, full dataset, 2 neighbors, 200 iterations: 55s
+IVHD euclidean distance, full dataset, 2 neighbors, 3500 iterations: 6m 50s
 
 
 
