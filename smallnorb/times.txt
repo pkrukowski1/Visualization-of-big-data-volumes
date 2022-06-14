@@ -11,3 +11,8 @@ PaCMAP, full dataset, 42.12 s
 ISOMAP, tiny dataset: 958.35 s
 ISOMAP, tiny dataset: 194.22 s
 ISOMAP, tiny dataset: 118.55 s
+
+IVHD, full dataset, euclidean distance, 2 neighbors, 3500 iterations: 3m 32s
+IVHD, full dataset, euclidean distance, 3 neighbors, 3500 iterations: 3m 59s
+IVHD, full dataset, cosine distance, 2 neighbors, 3500 iterations: 3m 33s
+IVHD, full dataset, cosine distance, 3 neighbors, 3500 iterations: 3m 53s
