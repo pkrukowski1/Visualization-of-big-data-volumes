@@ -1,0 +1,4 @@
+IVHD, full dataset, cosine distance, 3 neighbors, 3500 iterations: 153 min 50 s
+IVHD, full dataset, cosine distance, 2 neighbors, 3500 iterations: 122 min 46 s
+IVHD, full dataset, euclidean distance, 3 neighbors, 3500 iterations: 149 min 38 s
+IVHD, full dataset, euclidean distance, 2 neighbors, 3500 iterations: 123 min 32 s
