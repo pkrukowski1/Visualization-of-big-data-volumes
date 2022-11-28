@@ -5,3 +5,4 @@ methods from UMAP-like family (UMAP, HUMAP, TriMAP, PaCMAP and ISOMAP) and IVHD 
 * Smallnorb,
 * Reuters.
 
+Authors: Patryk Krukowski, Marcin Świątkowski
